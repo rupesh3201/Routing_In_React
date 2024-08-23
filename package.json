@@ -1,5 +1,14 @@
 {
   "name": "routing_in_react",
   "version": "0.1.0",
-  "private": true
+  "private": true,
+  "scripts": {
+    "start": "react scripts start"
+  },
+  // npm install react react-script react-dom to add laiberies in ur project
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-script": "^2.0.5"
+  }
 }

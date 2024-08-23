@@ -5,7 +5,7 @@
   "scripts": {
     "start": "react scripts start"
   },
-  // npm install react react-script react-dom to add laiberies in ur project
+
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",

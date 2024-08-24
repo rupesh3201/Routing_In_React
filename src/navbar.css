@@ -3,5 +3,12 @@
     background-color: rgb(152, 84, 220);
     color:  white;
     padding: 10px;
+    display: flex;
+
+}
+.navlink
+{
+    color: white;
+    margin: 0px 20px;
 
 }

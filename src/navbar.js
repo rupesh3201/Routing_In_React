@@ -6,8 +6,8 @@ function Navbar ()
     <div className="nav_link">
         <a href="/">Home</a>
         <a href="/about">About</a>
-        <a href="/contact">About</a>
-        <a href="/abput">About</a>
+        <a href="/contact">Contact</a>
+    
         
     </div>
     </div>)

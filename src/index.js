@@ -15,5 +15,8 @@ else if (currentpath == "/Contact")
     root.render(<Contact/>)
 
 }
-
+else if (currentpath == "/About")
+{
+        root.render(<About/>)
+}
 root.render(<div> <h1>pathname: {currentpath}</h1> </div>)

@@ -2,6 +2,7 @@ import reactDOM from "react-dom/client";
 import Home  from "./home";
 import About from "./about";
 import Contact from "./contact";
+import "./index.css"
 
 const root = ReactDOM.createRoot(document.getElementById(`root`));
 const currentpath = window.location.pathname;

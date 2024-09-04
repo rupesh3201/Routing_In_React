@@ -1,5 +1,6 @@
 import react from "react";
 import Navbar from "./navbar";
+// about js
 function About()
 {
     return(<div>
